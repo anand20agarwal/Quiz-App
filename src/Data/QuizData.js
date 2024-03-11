@@ -21,7 +21,7 @@ export const QuizData = [
         answer: 1
     },
     {
-        question: "Which of the following keywords is used to define a variable in Javascript?",
+        question: "Which of the is used to define a variable in Javascript?",
         options:[ "var" , "let" , "Both A and B" , "None of the above" ],
         answer: 1
     },
