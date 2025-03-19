@@ -2,7 +2,7 @@
 
 A modern and interactive quiz web application that allows users to test their knowledge on various topics. Built with HTML, CSS, and JavaScript, this project demonstrates a user-friendly interface for answering multiple-choice questions and tracking scores.
 
-## Features 🎮
+## Features 🎮 
 - **Multiple Choice Questions**: Users can answer a set of multiple-choice questions.
 - **Instant Feedback**: Users receive their score right after completing the quiz.
 - **Timer**: An optional timer for each quiz to track time spent.
