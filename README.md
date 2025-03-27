@@ -1,3 +1,7 @@
+#Live project
+
+https://quiz-app-uqpf.onrender.com
+
 # Simple Quiz Application
 
 A modern and interactive quiz web application that allows users to test their knowledge on various topics. Built with HTML, CSS, and JavaScript, this project demonstrates a user-friendly interface for answering multiple-choice questions and tracking scores.
